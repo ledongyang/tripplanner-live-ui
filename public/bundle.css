@@ -6945,4 +6945,8 @@ h3 {
 li {
   list-style: none; }
 
+#current-day {
+  text-align: center;
+  color: red; }
+
 /*# sourceMappingURL=bundle.css.map*/
